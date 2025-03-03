@@ -1,2 +1,9 @@
-# PandasVSPolars
-A comparison between 2 currently most used Libraries in Data analytics : Pandas &amp; Polars
+# Pandas vs Polars vs Pandas 2.0 - Performance Comparison
+
+## Overview
+This repository compares the performance of **Pandas, Polars, and Pandas 2.0** for:
+- Data loading
+- Sorting
+- Grouping
+- Data manipulation
+
