@@ -1,6 +1,6 @@
 # 🐼 Pandas vs 🐻‍❄️ Polars - Performance Showdown  
 
-![Panda vs Polar Bear](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Polar_bear_vs_panda.jpg/800px-Polar_bear_vs_panda.jpg)  
+![Panda vs Polar Bear](Gemini_Generated_Image_a1j6sja1j6sja1j6.jpg)  
 *(Image for illustration purposes – Pandas and Polars don’t actually fight... or do they? 🤔)*  
 
 ## 📌 Overview  
