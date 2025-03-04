@@ -32,7 +32,7 @@ jupyter notebook
 ```
 
 📈 Performance Comparison
-We measure execution time for each operation and visualize the results using bar charts. Example:
+We measure execution time for each operation and visualize the results using bar charts.
 
 
 
